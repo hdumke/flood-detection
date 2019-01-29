@@ -1,0 +1,5 @@
+### Jupyter Notebook ###
+.ipnyb_checkpoints
+*/.ipnyb_checkpoints/*
+
+### Other things to ignore ###
